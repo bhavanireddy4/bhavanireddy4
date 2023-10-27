@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhavanireddy4
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in back-end development
 - 🌱 I’m currently student
 - 💞️ I’m looking to collaborate with MNC companies
 - 
